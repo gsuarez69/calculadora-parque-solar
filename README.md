@@ -1,0 +1,1 @@
+# calculadora-parque-solar
